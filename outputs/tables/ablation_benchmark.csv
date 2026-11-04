@@ -1,0 +1,16 @@
+Dataset_Version,Threshold,Train_Rows,Model,GT_Accuracy,GT_Macro_F1,GT_ROC_AUC,HighConf_F1,HighConf_ROC_AUC
+V0: Raw Uncleaned (t=0.50),0.5,5514,Logistic Regression,0.7171,0.7167,0.7923,0.7696,0.8459
+V0: Raw Uncleaned (t=0.50),0.5,5514,Random Forest,0.7922,0.7917,0.8735,0.8599,0.9313
+V0: Raw Uncleaned (t=0.50),0.5,5514,Gradient Boosting,0.7758,0.7751,0.848,0.8391,0.9037
+V1: Cleaned + LSA (t=0.50),0.5,5514,Logistic Regression,0.9146,0.9142,0.971,0.9884,0.9994
+V1: Cleaned + LSA (t=0.50),0.5,5514,Random Forest,0.9276,0.9273,0.9872,0.9986,1.0
+V1: Cleaned + LSA (t=0.50),0.5,5514,Gradient Boosting,0.9162,0.9157,0.9807,0.9918,0.9997
+V2: Full Feats + RBI (t=0.50),0.5,5514,Logistic Regression,0.9206,0.9199,0.986,0.9993,1.0
+V2: Full Feats + RBI (t=0.50),0.5,5514,Random Forest,0.9146,0.9136,0.9873,0.9993,1.0
+V2: Full Feats + RBI (t=0.50),0.5,5514,Gradient Boosting,0.9168,0.916,0.9848,0.9973,1.0
+V3: Curated Threshold (t=0.80),0.8,4490,Logistic Regression,0.9233,0.9229,0.9869,0.9986,1.0
+V3: Curated Threshold (t=0.80),0.8,4490,Random Forest,0.92,0.9194,0.9862,0.9993,1.0
+V3: Curated Threshold (t=0.80),0.8,4490,Gradient Boosting,0.9238,0.9235,0.9774,0.9966,0.9999
+V4: Curated Pipeline (t=0.85),0.85,4406,Logistic Regression,0.914,0.9127,0.9858,1.0,1.0
+V4: Curated Pipeline (t=0.85),0.85,4406,Random Forest,0.9135,0.912,0.986,0.9993,1.0
+V4: Curated Pipeline (t=0.85),0.85,4406,Gradient Boosting,0.9129,0.912,0.9804,0.9986,1.0
