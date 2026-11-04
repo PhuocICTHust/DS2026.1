@@ -65,7 +65,6 @@ def run_section_4_1_integrity(df):
     axes[1].set_title("Comment length distribution")
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig1_integrity_and_length.png")
-    plt.close(fig)
     return overview
 
 
@@ -95,7 +94,6 @@ def run_section_4_2_weak_signal(df):
 
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig2_weak_supervision_confidence.png")
-    plt.close(fig)
 
 
 def bucket_comment_count(n):
@@ -155,7 +153,6 @@ def run_section_4_3_user_activity(df):
 
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig3_user_activity_and_stability.png")
-    plt.close(fig)
 
     stats = {
         "n_users": int(len(counts)),
@@ -235,7 +232,6 @@ def enrich_affective_and_rbi(df):
 
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig4_affective_and_rbi.png")
-    plt.close(fig)
     return df
 
 
@@ -302,7 +298,6 @@ def run_section_4_6_embeddings(df):
 
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig5_embedding_pca_spaces.png")
-    plt.close(fig)
 
     diag_lex = clustering_diagnostics(df, LEXICON_COLS, "PsychLexicon")
     diag_lsa = clustering_diagnostics(df, LSA_COLS, "TFIDF_LSA")

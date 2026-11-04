@@ -179,7 +179,6 @@ def plot_ablation_and_feature_importance(ablation_df, rf_model, feature_names):
 
     plt.tight_layout()
     plt.savefig(FIGURES_DIR / "fig6_modeling_ablation_and_importance.png")
-    plt.close(fig)
     return top15_df
 
 
