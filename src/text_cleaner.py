@@ -84,13 +84,10 @@ STOPWORDS = {
     "thì", "là", "mà", "ở", "những", "các", "cái", "chiếc", "nhé", "nha", "ạ", "á", "ơi",
 }
 
-DEMO_RAW_TEXT = (
-    "@author_reply RT OMG vụ này CĂNG ĐÉT quááá ko thể tin đc năm 2026 ở HN!! 😡🤬 "
-    "Check https://t.co/abc123 #BreakingNews #TayChay lol =))"
-)
+SAMPLE_RAW_TEXT = "@sonpham-yf1vd về hỏi xem ông già bạn có xem không rồi hãng phát Ngôn😂😂 trẻ con nào mỗi mùa kiếm về cho Giải Chục Tỷ bảng"
 
 
-def demo_clean(text=DEMO_RAW_TEXT, author="author_reply"):
+def demo_clean(text=SAMPLE_RAW_TEXT, author="sonpham-yf1vd"):
     stages = []
 
     def add(label, value):
@@ -145,7 +142,7 @@ def demo_clean(text=DEMO_RAW_TEXT, author="author_reply"):
     return pd.DataFrame(stages)
 
 
-def clean_and_extract_behavioural(text, author="author_reply"):
+def clean_and_extract_behavioural(text, author=""):
     raw = unicodedata.normalize("NFC", str(text or ""))
 
     unicode_emojis = UNICODE_EMOJI_RE.findall(raw)
@@ -167,7 +164,8 @@ def clean_and_extract_behavioural(text, author="author_reply"):
     for k, v in CONTRACTIONS.items():
         t = re.sub(rf"\b{re.escape(k)}\b", v, t, flags=re.IGNORECASE)
     t = re.sub(r"\bRT\b", " ", t)
-    t = re.sub(rf"@{re.escape(author)}\b", " ", t, flags=re.IGNORECASE)
+    if author:
+        t = re.sub(rf"@{re.escape(author)}\b", " ", t, flags=re.IGNORECASE)
     t = MEDIA_URL_RE.sub(" media ", t)
     t = URL_RE.sub(" link ", t)
     t = MENTION_RE.sub(" tag ", t)
