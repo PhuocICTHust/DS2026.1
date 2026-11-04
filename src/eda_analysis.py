@@ -58,8 +58,8 @@ def run_section_4_1_integrity(df):
     axes[0].set_ylabel("Fraction missing")
     axes[0].set_title("Missingness is structural (parent_id)")
 
-    axes[1].hist(tok, bins=35, color="#4C72B0", edgecolor="white", alpha=0.9)
-    axes[1].set_xlim(0, 60)
+    axes[1].hist(tok, bins=40, range=(0, 80), color="#4C72B0", edgecolor="white", alpha=0.9)
+    axes[1].set_xlim(0, 80)
     axes[1].set_xlabel("Tokens per comment")
     axes[1].set_ylabel("Count")
     axes[1].set_title("Comment length distribution")

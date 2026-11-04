@@ -1,8 +1,8 @@
 metric,value
-Records,"7,352"
-Unique users,"1,717"
+Records,"6,577"
+Unique users,"3,788"
 Features,67
-Cells missing (feature cols),"2,970"
-Empty cleaned comments,0
-Mean tokens per comment,24.37
-Median tokens per comment,24
+Cells missing (feature cols),"3,928"
+Empty cleaned comments,10
+Mean tokens per comment,37.96
+Median tokens per comment,26

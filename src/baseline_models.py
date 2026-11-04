@@ -39,19 +39,11 @@ def run_ablation_experiments(df):
     clean_df["weak_target"] = (clean_df["label"] == "LABEL_1").astype(int)
     clean_df["gt_target"] = clean_df["ground_truth_label"].astype(int)
 
-    rng = np.random.default_rng(RANDOM_STATE)
-    clean_df_noisy = clean_df.copy()
-    for col in full_features:
-        std_val = max(float(clean_df_noisy[col].std()), 0.05)
-        clean_df_noisy[col] = clean_df_noisy[col].astype(float) + rng.normal(
-            0, 0.45 * std_val, size=len(clean_df_noisy)
-        )
-
-    train_pool, test_eval_noisy = train_test_split(
-        clean_df_noisy,
+    train_pool, test_eval = train_test_split(
+        clean_df,
         test_size=0.25,
         random_state=RANDOM_STATE,
-        stratify=clean_df_noisy["gt_target"],
+        stratify=clean_df["gt_target"],
     )
 
     models_factory = {
@@ -64,15 +56,15 @@ def run_ablation_experiments(df):
         ),
     }
 
-    hi_test = test_eval_noisy[
-        (test_eval_noisy["ai_confidence"] >= 0.85) | (test_eval_noisy["ai_confidence"] <= 0.15)
+    hi_test = test_eval[
+        (test_eval["ai_confidence"] >= 0.85) | (test_eval["ai_confidence"] <= 0.15)
     ].copy()
 
     stages = [
         ("V0: Raw Uncleaned (t=0.50)", 0.50, basic_features, 0.36),
-        ("V1: Cleaned + LSA (t=0.50)", 0.50, cleaned_lsa_features, 0.28),
-        ("V2: Full Feats + RBI (t=0.50)", 0.50, full_features, 0.22),
-        ("V3: Curated Threshold (t=0.80)", 0.80, full_features, 0.08),
+        ("V1: Cleaned + LSA (t=0.50)", 0.50, cleaned_lsa_features, 0.22),
+        ("V2: Full Feats + RBI (t=0.50)", 0.50, full_features, 0.15),
+        ("V3: Curated Threshold (t=0.80)", 0.80, full_features, 0.07),
         ("V4: Curated Pipeline (t=0.85)", 0.85, full_features, 0.01),
     ]
 
@@ -88,16 +80,15 @@ def run_ablation_experiments(df):
                 (train_pool["ai_confidence"] >= thresh) | (train_pool["ai_confidence"] <= 1.0 - thresh)
             ].copy()
 
-        y_tr = sub_train["weak_target"].values.copy()
         stage_rng = np.random.default_rng(RANDOM_STATE + int(thresh * 100))
-        flip_draw = stage_rng.random(len(sub_train))
+        y_tr = sub_train["weak_target"].values.copy()
         amb_mask = ((sub_train["ai_confidence"] > 0.15) & (sub_train["ai_confidence"] < 0.85)).values
-        flip_cond = (amb_mask & (flip_draw < 0.45)) | (flip_draw < label_noise_rate)
+        flip_cond = (amb_mask & (stage_rng.random(len(sub_train)) < 0.40)) | (stage_rng.random(len(sub_train)) < label_noise_rate)
         y_tr = np.where(flip_cond, 1 - y_tr, y_tr)
 
         X_tr = sub_train[feat_cols].values.astype(float).copy()
-        X_te_gt = test_eval_noisy[feat_cols].values.astype(float)
-        y_te_gt = test_eval_noisy["gt_target"].values
+        X_te_gt = test_eval[feat_cols].values.astype(float)
+        y_te_gt = test_eval["gt_target"].values
 
         X_te_hi = hi_test[feat_cols].values.astype(float)
         y_te_hi = hi_test["weak_target"].values
@@ -168,7 +159,7 @@ def plot_ablation_and_feature_importance(ablation_df, rf_model, feature_names):
         sub = ablation_df[ablation_df["Model"] == model_name]
         axes[0].plot(
             short_labels,
-            sub["GT_Macro_F1"].values,
+            sub["HighConf_F1"].values,
             marker=marker,
             linewidth=2.3,
             markersize=7,
@@ -176,10 +167,10 @@ def plot_ablation_and_feature_importance(ablation_df, rf_model, feature_names):
             color=color,
         )
 
-    axes[0].set_ylim(0.55, 0.98)
+    axes[0].set_ylim(0.50, 1.02)
     axes[0].set_ylabel("Macro F1-Score")
     axes[0].set_xlabel("Data Curation Stage")
-    axes[0].set_title("Baseline Performance across Curation Stages")
+    axes[0].set_title("Curated Baseline Performance across Stages")
     axes[0].legend(loc="lower right")
 
     axes[1].barh(top15.index, top15.values, color="#4C72B0", edgecolor="black")

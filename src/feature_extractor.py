@@ -73,7 +73,6 @@ def extract_lsa_features(
     )
     tfidf_matrix = vectorizer.fit_transform(texts)
 
-    # Small corpora cannot produce more SVD components than documents.
     actual_components = min(n_components, tfidf_matrix.shape[0], tfidf_matrix.shape[1] - 1)
     svd = TruncatedSVD(n_components=actual_components, random_state=RANDOM_STATE)
     lsa_matrix = svd.fit_transform(tfidf_matrix)

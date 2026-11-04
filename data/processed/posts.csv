@@ -1,121 +1,209 @@
 post_id,author,topic,post_content,likes
-post_01_001,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,2151
-post_01_002,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,1768
-post_01_003,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,1586
-post_01_004,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,1751
-post_01_005,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1234
-post_01_006,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,1411
-post_01_007,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,1515
-post_01_008,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,223
-post_01_009,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,1215
-post_01_010,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,850
-post_01_011,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1336
-post_01_012,influencer_01,showbiz_drama,[Threads Showbiz & Nghệ sĩ tranh cãi phát ngôn] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,364
-post_02_001,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,2082
-post_02_002,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,213
-post_02_003,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,1009
-post_02_004,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,507
-post_02_005,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1712
-post_02_006,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,1934
-post_02_007,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,1812
-post_02_008,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,1007
-post_02_009,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,1176
-post_02_010,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,574
-post_02_011,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1529
-post_02_012,influencer_02,football_vleague,[Bình luận Bóng đá & Đội tuyển Quốc gia] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,674
-post_03_001,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,341
-post_03_002,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,1240
-post_03_003,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,2111
-post_03_004,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,1977
-post_03_005,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,534
-post_03_006,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,1690
-post_03_007,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,2075
-post_03_008,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,1406
-post_03_009,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,705
-post_03_010,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,1593
-post_03_011,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,633
-post_03_012,influencer_03,tech_ai_jobs,[Tranh luận AI thay thế lập trình viên & Sinh viên IT] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,1284
-post_04_001,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,1716
-post_04_002,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,2019
-post_04_003,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,2066
-post_04_004,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,1764
-post_04_005,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1270
-post_04_006,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,2256
-post_04_007,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,1833
-post_04_008,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,994
-post_04_009,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,225
-post_04_010,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,1978
-post_04_011,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1009
-post_04_012,influencer_04,traffic_policy,[Thảo luận Giao thông đô thị & Xử phạt nồng độ cồn] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,2014
-post_05_001,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?",2057
-post_05_002,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?",1475
-post_05_003,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?",822
-post_05_004,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?",619
-post_05_005,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?",832
-post_05_006,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?",2229
-post_05_007,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?",1861
-post_05_008,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?",1536
-post_05_009,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?",1924
-post_05_010,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?",2214
-post_05_011,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?",212
-post_05_012,influencer_05,education_exam,"[Đổi mới thi cử, học phí đại học & Áp lực điểm số] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?",681
-post_06_001,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,945
-post_06_002,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,346
-post_06_003,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,1196
-post_06_004,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,987
-post_06_005,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1394
-post_06_006,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,2145
-post_06_007,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,718
-post_06_008,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,1960
-post_06_009,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,437
-post_06_010,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,1979
-post_06_011,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,903
-post_06_012,influencer_06,food_review,[Review Ẩm thực đường phố & Drama quán ăn TikTok/Threads] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,885
-post_07_001,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,636
-post_07_002,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,1688
-post_07_003,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,2420
-post_07_004,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,2150
-post_07_005,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1388
-post_07_006,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,545
-post_07_007,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,1901
-post_07_008,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,170
-post_07_009,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,1712
-post_07_010,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,1928
-post_07_011,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1098
-post_07_012,influencer_07,cinema_viet,[Tranh cãi Phim điện ảnh Việt doanh thu trăm tỷ] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,1818
-post_08_001,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,2385
-post_08_002,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,589
-post_08_003,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,1177
-post_08_004,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,1514
-post_08_005,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,484
-post_08_006,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,1222
-post_08_007,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,382
-post_08_008,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,800
-post_08_009,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,996
-post_08_010,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,1832
-post_08_011,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1990
-post_08_012,influencer_08,esports_gaming,[Cộng đồng Game thủ & Drama giải đấu Esports] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,1270
-post_09_001,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?,1337
-post_09_002,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?,1737
-post_09_003,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?,233
-post_09_004,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?,850
-post_09_005,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?,1133
-post_09_006,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?,2021
-post_09_007,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?,1635
-post_09_008,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?,1178
-post_09_009,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?,1160
-post_09_010,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?,786
-post_09_011,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?,1980
-post_09_012,influencer_09,workplace_genz,[Tranh luận Văn hóa công sở GenZ vs Sếp truyền thống] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?,494
-post_10_001,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #1: Quan điểm của mọi người về vấn đề này như thế nào?",1851
-post_10_002,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #2: Quan điểm của mọi người về vấn đề này như thế nào?",2227
-post_10_003,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #3: Quan điểm của mọi người về vấn đề này như thế nào?",1867
-post_10_004,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #4: Quan điểm của mọi người về vấn đề này như thế nào?",1638
-post_10_005,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #5: Quan điểm của mọi người về vấn đề này như thế nào?",2164
-post_10_006,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #6: Quan điểm của mọi người về vấn đề này như thế nào?",250
-post_10_007,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #7: Quan điểm của mọi người về vấn đề này như thế nào?",2123
-post_10_008,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #8: Quan điểm của mọi người về vấn đề này như thế nào?",351
-post_10_009,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #9: Quan điểm của mọi người về vấn đề này như thế nào?",234
-post_10_010,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #10: Quan điểm của mọi người về vấn đề này như thế nào?",535
-post_10_011,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #11: Quan điểm của mọi người về vấn đề này như thế nào?",1097
-post_10_012,influencer_10,crypto_finance,"[Đầu tư chứng khoán, tài chính cá nhân & Lùa gà] Bài thảo luận số #12: Quan điểm của mọi người về vấn đề này như thế nào?",1286
+post_5140761,vnexpress_editorial,showbiz_drama,Jude Bellingham gây sốt khi làm người mẫu nội y,2
+post_5140733,vnexpress_editorial,showbiz_drama,Hoắc Kiến Hoa: 'Tôi mãi mới thoát vai vua Càn Long',3
+post_5140689,vnexpress_editorial,showbiz_drama,Phương Nhi thăm Bảo tàng đạo Mẫu của nghệ sĩ Xuân Hinh,15
+post_5139749,vnexpress_editorial,showbiz_drama,Hồ Văn Cường: 'Tôi không tự mãn khi mua nhà ở tuổi 22',68
+post_5140702,vnexpress_editorial,showbiz_drama,Nhà văn dùng AI thắng giải văn học lớn nhất của Pháp,0
+post_5140649,vnexpress_editorial,showbiz_drama,35.000 vé 'Anh trai vượt ngàn chông gai' hết sau 27 phút,43
+post_5140597,vnexpress_editorial,showbiz_drama,Nguyễn Hùng biểu diễn hit 'Gói con tim làm quà',5
+post_5139906,vnexpress_editorial,showbiz_drama,Chuỗi hoạt động kỷ niệm 950 năm Quốc Tử Giám,7
+post_5140491,vnexpress_editorial,showbiz_drama,Phạm Băng Băng diện đầm cảm hứng sông Hương,78
+post_5140421,vnexpress_editorial,showbiz_drama,Người mẫu Kim Ja Yeon cưới doanh nhân 70 tuổi,47
+post_5140085,vnexpress_editorial,showbiz_drama,Con gái đòi 600 triệu USD từ di sản Michael Jackson,6
+post_5140394,vnexpress_editorial,showbiz_drama,Son Ye Jin sánh đôi chồng,48
+post_5135107,vnexpress_editorial,showbiz_drama,Nhạc Việt vào mùa concert vạn người xem,17
+post_5140000,vnexpress_editorial,showbiz_drama,"Triệu Vy: 'Tôi sống chậm lại, vui hơn'",21
+post_5139985,vnexpress_editorial,showbiz_drama,Vivienne là người con thứ tư bỏ họ Brad Pitt,223
+post_5140363,vnexpress_editorial,showbiz_drama,Sao 'The Suite Life of Zack &amp; Cody' dạo phố Hà Nội,5
+post_5140186,vnexpress_editorial,showbiz_drama,Vợ 'Vua sòng bạc Macau' đeo vòng hơn 7 triệu USD,22
+post_5139679,vnexpress_editorial,showbiz_drama,Ra mắt bản dịch tiểu thuyết 'Anna Karenina' từ tiếng Nga,30
+post_5139680,vnexpress_editorial,showbiz_drama,Phim 18+ Chị chị em em 3 bị nhận xét 'hạ thấp phụ nữ',386
+post_5140003,vnexpress_editorial,showbiz_drama,Khánh Như giới thiệu gánh bún riêu của mẹ tại Miss International,0
+yt_post_cWcPlbQ6G9U,youtube_channel,showbiz_drama,[YouTube Debate] Rap Viet Mua 4 Chung Ket - Tranh cai quan quan (https://www.youtube.com/watch?v=cWcPlbQ6G9U),2500
+post_5140844,vnexpress_editorial,football_vleague,Thể Công thủng 8 bàn sau hai trận trước CLB của Hàn Quốc,2
+post_5140700,vnexpress_editorial,football_vleague,Mourinho: 'Real cần ba mùa để đạt phiên bản tốt nhất',72
+post_5140659,vnexpress_editorial,football_vleague,Arteta: 'Tôi có cả kho video kéo áo',78
+post_5140729,vnexpress_editorial,football_vleague,Williams Minh Hoàng lần đầu lên U23 Việt Nam,32
+post_5140648,vnexpress_editorial,football_vleague,Yamal đang giữ những kỷ lục nào ở Champions League?,17
+post_5139705,vnexpress_editorial,football_vleague,"Làn sóng marathoner mới thách thức thế thống trị của Kenya, Ethiopia",3
+post_5140552,vnexpress_editorial,football_vleague,Đề nghị đổi luật bóng đá sau bi kịch De Miguel,170
+post_5140561,vnexpress_editorial,football_vleague,HLV Roma: 'Đáng ra phải chơi khôn ngoan hơn trước Man Utd',44
+post_5140507,vnexpress_editorial,football_vleague,Bị dọa giết vì trùng họ với thủ môn khiến De Miguel tử vong,11
+post_5140618,vnexpress_editorial,football_vleague,CĐV bị triệu tập vì cáo buộc phân biệt chủng tộc HLV Park Hang-seo,8
+post_5140500,vnexpress_editorial,football_vleague,Minh tinh Hollywood vượt chuẩn Boston khi chạy marathon gây quỹ,10
+post_5140477,vnexpress_editorial,football_vleague,Trận đấu 51 thẻ đỏ ở Brazil,62
+post_5140458,vnexpress_editorial,football_vleague,Fernandes: 'Chúng tôi không cần cứu ghế ai',118
+post_5140459,vnexpress_editorial,football_vleague,Cunha cãi Carrick sau trận thắng của Man Utd,151
+post_5140451,vnexpress_editorial,football_vleague,"Yamal, Raphinha giúp Barca thắng đậm Aston Villa",49
+post_5140450,vnexpress_editorial,football_vleague,Bayern lần đầu thắng trên sân Atletico ở Champions League,33
+post_5140448,vnexpress_editorial,football_vleague,PSG lập kỷ lục ghi bốn bàn nhanh nhất Champions League,96
+post_5140449,vnexpress_editorial,football_vleague,Man Utd thắng ngược khó tin trước Roma ở Champions League,259
+post_5140439,vnexpress_editorial,football_vleague,Cảnh sát điều tra khả năng ngộ sát trong cái chết của tiền đạo De Miguel,340
+post_5140417,vnexpress_editorial,football_vleague,Thủ môn Jesus Owono suy sụp khi De Miguel qua đời,459
+yt_post_dJ2YsxofQ0U,youtube_channel,football_vleague,[YouTube Debate] Bong da Viet Nam V-League - Tranh cai quyet dinh trong tai (https://www.youtube.com/watch?v=dJ2YsxofQ0U),2500
+post_5140872,vnexpress_editorial,tech_ai_jobs,Hàng loạt điện thoại Trung Quốc bị gỡ khỏi kệ trưng bày,263
+post_5140868,vnexpress_editorial,tech_ai_jobs,CEO OpenAI đổi tên tài khoản X thành 'Ram Altman',1
+post_5140567,vnexpress_editorial,tech_ai_jobs,"Canva tái cấu trúc, ảnh hưởng tới 1.271 nhân viên",24
+post_5140409,vnexpress_editorial,tech_ai_jobs,Apple chưa thể xác định khi nào iPhone Duo hết khan hàng,93
+post_5140437,vnexpress_editorial,tech_ai_jobs,Apple bắt đầu cho dùng thử Siri AI với tiếng Việt,13
+post_5138742,vnexpress_editorial,tech_ai_jobs,'Nhân lực chuyên sâu là khoảng trống cần chuẩn bị cho chương trình điện hạt nhân',0
+post_5140446,vnexpress_editorial,tech_ai_jobs,Anthropic nói sắp đạt đến 'AI tự cải tiến',8
+post_5140643,vnexpress_editorial,tech_ai_jobs,"Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",141
+post_5140600,vnexpress_editorial,tech_ai_jobs,Kính viễn vọng 250 triệu USD của NASA đang rơi xuống Trái Đất,21
+post_5140434,vnexpress_editorial,tech_ai_jobs,Nhà mạng phải báo cáo nếu mất kết nối Internet diện rộng,8
+post_5139934,vnexpress_editorial,tech_ai_jobs,Elon Musk: 'Công nghệ Neuralink có thể chữa mù',209
+post_5140379,vnexpress_editorial,tech_ai_jobs,Tác giả 'chùa online' khuấy đảo mạng với 30 phút lập trình AI,111
+post_5140152,vnexpress_editorial,tech_ai_jobs,Chip bảo mật 28 nm do kỹ sư Việt phát triển,204
+post_5139650,vnexpress_editorial,tech_ai_jobs,Nhiều nhà toán học trẻ 'xem xét lại sự nghiệp' vì AI,72
+post_5140108,vnexpress_editorial,tech_ai_jobs,FPT vận hành thử nghiệm nhà máy chip tại Bắc Ninh,25
+post_5140045,vnexpress_editorial,tech_ai_jobs,Lý do hacker có thể tấn công tăng nhiệt độ tủ lạnh siêu thị,73
+post_5139911,vnexpress_editorial,tech_ai_jobs,Lỗi màn hình có thể ảnh hưởng đến 'hàng nghìn iPhone Duo',159
+post_5139939,vnexpress_editorial,tech_ai_jobs,Hacker tăng nhiệt tủ lạnh đến 50 độ C tại hàng loạt siêu thị châu Âu,326
+post_5140098,vnexpress_editorial,tech_ai_jobs,Ninh Bình yêu cầu kiểm soát khai thác khoáng sản để bảo tồn voọc mông trắng,8
+post_5140182,vnexpress_editorial,tech_ai_jobs,Bình chọn điện thoại gập dẫn đầu trào lưu được yêu thích nhất,0
+yt_post_pUy9taLxp18,youtube_channel,tech_ai_jobs,[YouTube Debate] AI co thuc su thay the lap trinh vien IT va sinh vien moi ra truong? (https://www.youtube.com/watch?v=pUy9taLxp18),2500
+post_5139953,vnexpress_editorial,traffic_policy,Siêu xe điện của BYD bị phá hủy khi đang thử kỷ lục tốc độ,982
+post_5140251,vnexpress_editorial,traffic_policy,Yamaha XENTER E - xe ga thuần điện mới cho đô thị,358
+post_5140127,vnexpress_editorial,traffic_policy,"BYD có hơn 1 triệu nhân viên, gấp 3 lần Toyota",56
+post_5139983,vnexpress_editorial,traffic_policy,'Lái xe nhiều khiến tôi ngày càng xấu tính',129
+post_5139996,vnexpress_editorial,traffic_policy,Yamaha NMAX E - xe ga chạy điện ra mắt thế giới,1
+post_5139683,vnexpress_editorial,traffic_policy,Chắn bùn khoét lỗ - thiết kế lạ trên xe máy điện VinFast,109
+post_5140255,vnexpress_editorial,traffic_policy,Xe máy bốc cháy khi đang đổ xăng,973
+post_5140464,vnexpress_editorial,traffic_policy,Xe điện Toyota làm robotaxi cho hãng xe tự lái Mỹ,137
+post_5140321,vnexpress_editorial,traffic_policy,Hàng trăm xe Volkswagen Tiguan Allspace nguy cơ mất lái,6
+post_5140195,vnexpress_editorial,traffic_policy,'Đi xe nhỏ như VF 3 nên được trả phí đỗ xe ít hơn xe to',1795
+post_5140097,vnexpress_editorial,traffic_policy,Subaru Crosstrek khuyến mãi hơn 300 triệu đồng,60
+post_5140046,vnexpress_editorial,traffic_policy,Yamaha RW350 - tân binh xe ga địa hình,16
+post_5140011,vnexpress_editorial,traffic_policy,Toyota vẫn là thương hiệu ôtô giá trị nhất thế giới,3171
+post_5139940,vnexpress_editorial,traffic_policy,Việt Nam nhập khẩu ôtô chủ yếu từ đâu?,330
+post_5139969,vnexpress_editorial,traffic_policy,"Cắt xuyên dòng phương tiện, người đi xe máy tông thẳng vào hông ôtô",144
+post_5139797,vnexpress_editorial,traffic_policy,Cô gái lóng ngóng ngã nhào khi mắc vào xe máy phía trước,22
+post_5139883,vnexpress_editorial,traffic_policy,"SUV PHEV dễ tiếp cận nhất của Mercedes giá 2,999 tỷ đồng",111
+post_5139781,vnexpress_editorial,traffic_policy,Yangwang Altior - xe của BYD cạnh tranh Rolls-Royce Ghost,305
+post_5139484,vnexpress_editorial,traffic_policy,Hãng Trung Quốc thiết kế bồn ngâm chân trên ôtô,141
+post_5139774,vnexpress_editorial,traffic_policy,Lexus sản xuất SUV điện ở Trung Quốc từ 2027,19
+post_5140793,vnexpress_editorial,education_exam,Người dân nước nào đi khám bệnh nhiều nhất châu Á?,0
+post_5140837,vnexpress_editorial,education_exam,Hai nhóm trường ở TP HCM được 'linh động' xếp môn liên kết,27
+post_5138284,vnexpress_editorial,education_exam,"4 tỉnh, thành xét học bạ vào lớp 10 năm 2027",456
+post_5140438,vnexpress_editorial,education_exam,10 đại học tốt nhất châu Á năm 2027,38
+post_5140433,vnexpress_editorial,education_exam,"19 cây xanh trong trường bị đốn hạ, hiệu trưởng đối mặt kỷ luật",350
+post_5138891,vnexpress_editorial,education_exam,Nhiều học sinh bị bắt nạt hơn 5 lần trong năm học,19
+post_5140381,vnexpress_editorial,education_exam,Hiệu trưởng vượt đường rừng để họp phụ huynh,30
+post_5140059,vnexpress_editorial,education_exam,"Giáo viên phản ứng vì bị điều động dọn cỏ, cắt tỉa cây",1487
+post_5139888,vnexpress_editorial,education_exam,Tỉnh nào giữ kỷ lục nhiệt độ tháng 10 của cả nước?,3
+post_5140159,vnexpress_editorial,education_exam,33 đại học Việt Nam vào bảng xếp hạng châu Á 2027,33
+post_5140038,vnexpress_editorial,education_exam,Nới điều kiện làm giáo viên cho sinh viên trái ngành,481
+post_5131047,vnexpress_editorial,education_exam,Chàng trai Đăk Lăk làm PGS toán ở 'cái nôi' khoa học vũ trụ Trung Quốc,131
+post_5140135,vnexpress_editorial,education_exam,"Tăng trao đổi giảng viên, sinh viên giữa Đại học Quốc gia Hà Nội và Thanh Hoa",3
+post_5139909,vnexpress_editorial,education_exam,Cô giáo đánh bé 17 tháng bầm tím giữa giờ ăn,71
+post_5139903,vnexpress_editorial,education_exam,Di dời cổng Parabol của Đại học Bách khoa Hà Nội vào trong 20 m,154
+post_5139793,vnexpress_editorial,education_exam,Đại học Quốc gia Hà Nội đề xuất mở khóa học thông minh đa ngôn ngữ về AI,0
+post_5139838,vnexpress_editorial,education_exam,Hai cô giáo tát trẻ mầm non bị dừng đứng lớp,262
+post_5139364,vnexpress_editorial,education_exam,Bác sĩ 33 tuổi đỗ thủ khoa đầu vào tiến sĩ Y khoa,106
+post_5139625,vnexpress_editorial,education_exam,"Dự kiến giảm gần 50% trường cao đẳng, trung cấp",46
+post_5137841,vnexpress_editorial,education_exam,Nam sinh Hưng Yên tốt nghiệp thủ khoa Đặc công Biệt động,413
+yt_post_-y4N5aXLbDo,youtube_channel,education_exam,[YouTube Debate] Doi moi phuong an thi tot nghiep THPT va ap luc diem so hoc sinh (https://www.youtube.com/watch?v=-y4N5aXLbDo),2500
+post_5140638,vnexpress_editorial,food_review,Vì sao luộc rau bằng lò vi sóng ngon hơn cách truyền thống?,41
+post_5139698,vnexpress_editorial,food_review,Vì sao người già thường hạnh phúc hơn trung niên?,4
+post_5140345,vnexpress_editorial,food_review,Người mẹ 45 tuổi bị nhầm là bạn gái của con,103
+post_5140429,vnexpress_editorial,food_review,Đổi đời hụt sau màn cầu hôn gây sốt tại quán KFC,49
+post_5139917,vnexpress_editorial,food_review,Chàng trai rước cô gái Nepal về làm dâu miền Tây,938
+post_5140018,vnexpress_editorial,food_review,Nổi tiếng 20 năm vì lên nhầm truyền hình trực tiếp,101
+post_5139718,vnexpress_editorial,food_review,Dấu hiệu của người chồng 'mãi không lớn',32
+post_5140225,vnexpress_editorial,food_review,Tài xế hét lớn để xin đường vì lệnh cấm bóp còi,97
+post_5140075,vnexpress_editorial,food_review,Du học sinh vận động lắp vòi xịt vệ sinh ở Canada,94
+post_5139692,vnexpress_editorial,food_review,Tìm được mẹ sau 35 năm nhờ đoạn video 3 phút,12
+post_5139645,vnexpress_editorial,food_review,'Cậu bé thành công' tái xuất sau 19 năm,340
+post_5139873,vnexpress_editorial,food_review,Đi chùa online,250
+post_5139703,vnexpress_editorial,food_review,Á quân judo hồi sinh sau 10 năm gặp tai nạn ở Việt Nam,82
+post_5139712,vnexpress_editorial,food_review,Đổi điểm thưởng hỗ trợ viện phí cho bệnh nhân ung thư,1
+post_5139437,vnexpress_editorial,food_review,50 năm không uống nước lọc của tỷ phú Warren Buffett,811
+post_5139526,vnexpress_editorial,food_review,Cứu sống 14 người trong đám cháy nhờ đi lạc,221
+post_5138884,vnexpress_editorial,food_review,5 dấu hiệu suy giảm trí nhớ do tuổi tác,9
+post_5139448,vnexpress_editorial,food_review,Làng Nhật Bản 'sắp biến mất' cầu cứu cư dân Peru,48
+post_5138950,vnexpress_editorial,food_review,"Cất xe, bán ôtô vì phí trông giữ tăng cao",1026
+post_5139411,vnexpress_editorial,food_review,Người mẹ Ba Na 19 tuổi giành giật sự sống cho con,30
+yt_post_TUVipEntCMM,youtube_channel,food_review,[YouTube Debate] Chien than review quan an - Tranh cai chat luong va ve sinh thuc pham (https://www.youtube.com/watch?v=TUVipEntCMM),2500
+post_5140878,vnexpress_editorial,cinema_viet,Hai cổ đông Công ty Ô Cấp bị bắt,2
+post_5140874,vnexpress_editorial,cinema_viet,Hai CSGT bị nghi phạm nhiễm HIV cắn chảy máu,149
+post_5140825,vnexpress_editorial,cinema_viet,"Nữ trợ lý rút ruột 18 triệu USD của ông chủ suốt 10 năm, sống xa hoa",6
+post_5140845,vnexpress_editorial,cinema_viet,13 người nước ngoài lập 'ổ' lừa đảo trong biệt thự ở Đà Nẵng,40
+post_5140835,vnexpress_editorial,cinema_viet,"Đường dây đưa hơn 4,4 tấn hải sâm qua đường tiểu ngạch vào Việt Nam",7
+post_5140243,vnexpress_editorial,cinema_viet,Công an làm việc với nhiều người sau vụ video 'nhạy cảm trong ôtô' lan truyền,661
+post_5140666,vnexpress_editorial,cinema_viet,Mr Pips xin cho bố hoặc mẹ 'ở ngoài' để lo cho hai người trong tù,2315
+post_5140647,vnexpress_editorial,cinema_viet,"Bộ Công an: Bảo vệ người nước ngoài, nhưng không dung túng hành vi phạm tội",9
+post_5140492,vnexpress_editorial,cinema_viet,"Thủ đoạn của nhóm livestream 'cắt đá tìm ngọc', lừa hàng chục nghìn người",24
+post_5140494,vnexpress_editorial,cinema_viet,Đà Nẵng phá đường dây lừa đầu tư chứng khoán ảo hơn 100 tỷ đồng,4
+post_5140528,vnexpress_editorial,cinema_viet,Shark Bình bị đề nghị 9-10 năm tù do rửa tiền cho Mr Pips,682
+post_5140501,vnexpress_editorial,cinema_viet,"Mr Pips bị đề nghị tù chung thân, bồi thường gần 1.200 tỷ đồng",722
+post_5140372,vnexpress_editorial,cinema_viet,Trò 'mèo vờn chuột' giữa cảnh sát và sát thủ đêm Halloween,4
+post_5140393,vnexpress_editorial,cinema_viet,"Vụ bán chui 5,1 triệu lít xăng: 'Đừng mang mẹ già, con nhỏ ra xin giảm án'",49
+post_5140247,vnexpress_editorial,cinema_viet,"Con phá hoại ôtô, mẹ từ chối bồi thường thay với lý do 'đã ly hôn'",11
+post_5140388,vnexpress_editorial,cinema_viet,Đánh vợ cũ vì nghi có tình mới,64
+post_5140395,vnexpress_editorial,cinema_viet,Nghi phạm sát hại người tình đu dây cáp từ tầng 4 khách sạn bỏ trốn,339
+post_5140198,vnexpress_editorial,cinema_viet,"Quay video khi ghen, ranh giới giữa giữ bằng chứng và phát tán trái phép",12
+post_5140302,vnexpress_editorial,cinema_viet,Thượng tá Nguyễn Thành Hưng: 'TP HCM giảm 99% tình trạng công khai sử dụng bóng cười',60
+post_5140158,vnexpress_editorial,cinema_viet,"Cảnh sát khoét ruột từng tảng phô mai, phát hiện hơn 4,5 tấn ma túy",5
+yt_post_6O02_eLsK54,youtube_channel,cinema_viet,[YouTube Debate] Phim dien anh Viet tram ty - Tranh cai kich ban va nghe thuat (https://www.youtube.com/watch?v=6O02_eLsK54),2500
+post_5140817,vnexpress_editorial,esports_gaming,Bộ trưởng Công an: Sẽ dùng dữ liệu để xác định vi phạm giao thông vô tình hay cố ý,29
+post_5140808,vnexpress_editorial,esports_gaming,Miền Bắc sắp đón hai đợt không khí lạnh,56
+post_5140605,vnexpress_editorial,esports_gaming,Vì sao người dân không được trồng dứa trên dải phân cách đại lộ?,127
+post_5140657,vnexpress_editorial,esports_gaming,Cầu vượt cửa biển dài nhất miền Trung được đặt tên Cửa Thuận,5
+post_5140736,vnexpress_editorial,esports_gaming,Trụ ATM ở Cà Mau cháy trơ khung,1
+post_5140642,vnexpress_editorial,esports_gaming,Hà Nội định giá tối đa 120 triệu USD/km đường sắt đi ngầm,211
+post_5140647,vnexpress_editorial,esports_gaming,"Bộ Công an: Bảo vệ người nước ngoài, nhưng không dung túng hành vi phạm tội",9
+post_5140635,vnexpress_editorial,esports_gaming,Thứ trưởng Xây dựng: Mỗi người chỉ được mua hoặc thuê mua một căn nhà xã hội,1
+post_5140520,vnexpress_editorial,esports_gaming,Đại biểu: Nhận diện khuôn mặt như chiếc chìa khóa treo sẵn ngoài cửa,20
+post_5140563,vnexpress_editorial,esports_gaming,Lặn xuống sông sâu gần 4 m cứu nam sinh nhảy cầu,51
+post_5140399,vnexpress_editorial,esports_gaming,"Hà Nội sẽ phá dỡ nhà xưởng, kho bãi vi phạm",17
+post_5140514,vnexpress_editorial,esports_gaming,"6 voi rừng phá lán trại, vườn chè ở Nghệ An",9
+post_5140299,vnexpress_editorial,esports_gaming,'Tiền thuê nhà chỉ nên chiếm 10-15% thu nhập',166
+post_5140436,vnexpress_editorial,esports_gaming,Quảng Trị quy hoạch 8 đô thị với hai trung tâm phát triển,2
+post_5140383,vnexpress_editorial,esports_gaming,Nghiên cứu phát triển đô thị nén hơn 108 ha ở Hàng Xanh,28
+post_5140179,vnexpress_editorial,esports_gaming,"Trợ cấp thất nghiệp, tiền đóng BHXH tăng theo lương tối thiểu từ 1/1/2027",15
+post_5140208,vnexpress_editorial,esports_gaming,Tranh luận về mức tiền đặt trước khi đấu giá đất,70
+post_5140323,vnexpress_editorial,esports_gaming,Dải phân cách trên đại lộ lớn nhất Ninh Bình thành ruộng dứa,1134
+post_5140168,vnexpress_editorial,esports_gaming,Gần 2.000 tỷ đồng xử lý 'rốn' ngập ở Cần Thơ,4
+post_5140249,vnexpress_editorial,esports_gaming,Hai người tử vong sau tai nạn liên hoàn trên đường Hồ Chí Minh,8
+yt_post_YJEGMxyQS7M,youtube_channel,esports_gaming,[YouTube Debate] Drama giai dau Esports VCS Lien Minh Huyen Thoai (https://www.youtube.com/watch?v=YJEGMxyQS7M),2500
+post_5140853,vnexpress_editorial,workplace_genz,Túi sinh tồn 72 giờ,54
+post_5140277,vnexpress_editorial,workplace_genz,Homeschooling vô thừa nhận?,526
+post_5139859,vnexpress_editorial,workplace_genz,Nhà giàu lo người kế nghiệp,335
+post_5139404,vnexpress_editorial,workplace_genz,Halloween và định kiến lai căng,805
+post_5139231,vnexpress_editorial,workplace_genz,Chuyển tiền cho kẻ cắp,462
+post_5138983,vnexpress_editorial,workplace_genz,Bò H'Mông và giấc mơ Wagyu,616
+post_5138545,vnexpress_editorial,workplace_genz,Lạm phát khoét thủng ví tiền,980
+post_5138078,vnexpress_editorial,workplace_genz,Chợ ế,516
+post_5137633,vnexpress_editorial,workplace_genz,Khỉ 'nghiện' điện thoại,660
+post_5137203,vnexpress_editorial,workplace_genz,Hai phút chờ một ly bia,176
+post_5136727,vnexpress_editorial,workplace_genz,Một tuần 'hack cả thế giới',720
+post_5136329,vnexpress_editorial,workplace_genz,Phá núi hay cứu voọc?,275
+post_5136200,vnexpress_editorial,workplace_genz,Đất phương Nam thương nhớ,325
+post_5135784,vnexpress_editorial,workplace_genz,Lạm phát bằng xuất sắc,329
+post_5135323,vnexpress_editorial,workplace_genz,Sự bất kính của học trò,1590
+post_5134673,vnexpress_editorial,workplace_genz,Ai 'buộc' khói thuốc lại?,1324
+post_5134332,vnexpress_editorial,workplace_genz,Kinh doanh giữa bạo loạn ở Pháp,339
+post_5133874,vnexpress_editorial,workplace_genz,Nếu ngày mai mất việc,751
+post_5133614,vnexpress_editorial,workplace_genz,Lá thư năm 1968,1584
+post_5133241,vnexpress_editorial,workplace_genz,'Nhập khẩu' kỳ tích,345
+post_5140879,vnexpress_editorial,crypto_finance,Cổ phiếu liên quan AI lao dốc khi đảng Dân chủ chiến thắng,7
+post_5140774,vnexpress_editorial,crypto_finance,"Tăng 33 điểm, VN-Index cắt chuỗi giảm sâu",18
+post_5140743,vnexpress_editorial,crypto_finance,"Giá vàng thế giới tăng vọt, vượt 4.000 USD",22
+post_5140690,vnexpress_editorial,crypto_finance,"Thủ tướng: Ngân sách phải chia sẻ với người dân, doanh nghiệp",13
+post_5140740,vnexpress_editorial,crypto_finance,"Phó thống đốc: Lãi suất cho vay mới giảm 0,2-0,5%",4
+post_5140645,vnexpress_editorial,crypto_finance,Vì sao giá điện giảm nhưng có nhà vẫn trả nhiều tiền hơn?,45
+post_5139227,vnexpress_editorial,crypto_finance,"Giá điện sinh hoạt theo 5 bậc, cao nhất 3.844 đồng một kWh",407
+post_5140571,vnexpress_editorial,crypto_finance,Chuỗi nhà sách lớn nhất cả nước lãi kỷ lục,26
+post_5140562,vnexpress_editorial,crypto_finance,Giá USD xuống sát 25.900 đồng,4
+post_5140444,vnexpress_editorial,crypto_finance,Một cổ đông Nhà nước muốn thoái hết vốn khỏi Eximbank,5
+post_5140362,vnexpress_editorial,crypto_finance,Hồng táo Trung Quốc 'rẻ chưa từng có',179
+post_5140378,vnexpress_editorial,crypto_finance,Việt Nam cần 1.000 máy bay trong 20 năm tới,11
+post_5140425,vnexpress_editorial,crypto_finance,Coteccons lấn sân mảng truyền thông,2
+post_5140313,vnexpress_editorial,crypto_finance,Vốn vào startup khí hậu ở Việt Nam giảm một nửa,1
+post_5140427,vnexpress_editorial,crypto_finance,Không ai mua lô vàng tang vật hơn 150 triệu đồng ở Nghệ An,65
+post_5140430,vnexpress_editorial,crypto_finance,"Vụ Binance bị hack 6,3 tỷ USD bắt nguồn từ một kỹ sư muốn nhảy việc",116
+post_5140418,vnexpress_editorial,crypto_finance,"Giá xăng, dầu cùng giảm",328
+post_5140385,vnexpress_editorial,crypto_finance,SCB giảm hạn mức chuyển tiền nhanh mỗi ngày xuống 20 triệu đồng,1
+post_5140196,vnexpress_editorial,crypto_finance,'Trung tâm tài chính TP HCM không nên cạnh tranh trực tiếp với Singapore',21
+post_5140324,vnexpress_editorial,crypto_finance,'Tính giá điện sinh hoạt theo giờ có thể bất lợi với hộ thu nhập thấp',556
+yt_post_n02ikLToMow,youtube_channel,crypto_finance,"[YouTube Debate] Thi truong chung khoan, coin va bai hoc quan tri rui ro tai chinh (https://www.youtube.com/watch?v=n02ikLToMow)",2500
